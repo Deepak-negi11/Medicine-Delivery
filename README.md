@@ -39,39 +39,33 @@ Follow these steps to run the app locally:
 
 1. Clone the Repository
 bash
-Copy
-Edit
+
 git clone https://github.com/Deepak-negi11/Medicine-Delivery.git
 cd Medicine-Delivery
 2. Install Dependencies
-bash
-Copy
+
 Edit
 npm install
 3. Run the Development Server
-bash
-Copy
+
 Edit
 npm run dev
 Visit http://localhost:5173 in your browser.
 
 4. Build for Production
-bash
-Copy
+
 Edit
 npm run build
 The built files will be located in the dist folder.
 
 5. Preview Production Build
-bash
-Copy
+
 Edit
 npm run preview
 🚀 Live Link
 Medicine Delivery App
 📂 Folder Structure
-bash
-Copy
+
 Edit
 src/
 ├── components/         # Reusable UI components
@@ -91,6 +85,7 @@ src/
 ├── index.tsx           # Entry point for React
 ├── index.css           # Tailwind CSS styles
 └── vite.config.ts      # Vite configuration
+
 ✨ Key Highlights
 Optimized UI: Fast and responsive design using Tailwind CSS.
 State Management: Simple and efficient state handling with React hooks.
@@ -98,6 +93,7 @@ Accessibility: Inclusive design for users requiring free medicine delivery.
 Performance: Built with Vite for faster development and optimized builds.
 🙌 Contribution
 We welcome contributions! To get started:
+
 
 Fork this repository.
 Create a feature branch: git checkout -b my-new-feature.
