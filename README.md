@@ -2,7 +2,7 @@ Medicine Delivery App
 A modern, user-friendly Medicine Delivery App designed to streamline the process of browsing, ordering medicines, and accessing emergency services. This project was created as a part of a college initiative to improve healthcare accessibility.
 
 🌟 Live Demo
-Experience the app live: Medicine Delivery App
+Experience the app live: https://gehumedicinedilevery.netlify.app
 
 📖 Features
 🩺 Browse Medicines
